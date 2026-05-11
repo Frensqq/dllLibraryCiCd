@@ -1,0 +1,10 @@
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\bin\Debug\net472\PodgotovkaDll.dll
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\bin\Debug\net472\PodgotovkaDll.pdb
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.csproj.AssemblyReference.cache
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.GeneratedMSBuildEditorConfig.editorconfig
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.AssemblyInfoInputs.cache
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.AssemblyInfo.cs
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.csproj.CoreCompileInputs.cache
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.sourcelink.json
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.dll
+W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\obj\Debug\net472\PodgotovkaDll.pdb

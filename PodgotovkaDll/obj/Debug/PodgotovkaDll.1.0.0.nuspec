@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PodgotovkaDll</id>
+    <version>1.0.0</version>
+    <authors>PodgotovkaDll</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="15d43722c886eb0550749bc3ec940af510682079" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="W:\Colledge\02.02\PodgotovkaDll\PodgotovkaDll\bin\Debug\net472\PodgotovkaDll.dll" target="lib\net472\PodgotovkaDll.dll" />
+  </files>
+</package>
