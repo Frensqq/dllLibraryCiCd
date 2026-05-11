@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
     <OutputType>Library</OutputType>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-
-    <PackegesId>Frensqq.DllLibraryCiCd</PackegesId>
+    <RootNamespace>PodgotovkaDll</RootNamespace>
+    <AssemblyName>PodgotovkaDll</AssemblyName>
     <Version>1.0.0</Version>
-    <Authors>Frensqq</Authors>
-	  <Description>dll for test cicd</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
- </Project>
+</Project>
