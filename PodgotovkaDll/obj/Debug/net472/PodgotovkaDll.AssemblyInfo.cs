@@ -13,8 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("PodgotovkaDll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Test CiCdLibrary")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15d43722c886eb0550749bc3ec940af510682079")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cec142ab71513a3a10f067a47abf4b107feb8ffd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PodgotovkaDll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PodgotovkaDll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
